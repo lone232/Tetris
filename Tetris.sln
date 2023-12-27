@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tetris", "Tetris\Tetris.vcxproj", "{DF2E37FE-1009-41C2-A3C6-800DF17637F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Space Tetris", "Space Tetris\Space Tetris.vdproj", "{0420D837-FEF3-4105-8CE5-53EDA0174946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Debug|Default.ActiveCfg = Debug|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Debug|Default.Build.0 = Debug|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Debug|x64.ActiveCfg = Debug|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Debug|x64.Build.0 = Debug|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Debug|x86.Build.0 = Debug|Win32
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Release|Default.ActiveCfg = Release|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Release|Default.Build.0 = Release|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Release|x64.ActiveCfg = Release|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Release|x64.Build.0 = Release|x64
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Release|x86.ActiveCfg = Release|Win32
+		{DF2E37FE-1009-41C2-A3C6-800DF17637F7}.Release|x86.Build.0 = Release|Win32
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Debug|Default.ActiveCfg = Debug
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Debug|Default.Build.0 = Debug
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Debug|x64.ActiveCfg = Debug
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Debug|x86.ActiveCfg = Debug
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Debug|x86.Build.0 = Debug
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Release|Default.ActiveCfg = Release
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Release|Default.Build.0 = Release
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Release|x64.ActiveCfg = Release
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Release|x64.Build.0 = Release
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Release|x86.ActiveCfg = Release
+		{0420D837-FEF3-4105-8CE5-53EDA0174946}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9663A824-D92A-41CC-9644-75E333633B75}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+EndGlobal
